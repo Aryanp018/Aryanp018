@@ -59,8 +59,9 @@ I build **reliable, scalable AI systems**—from RL-tuned RAG pipelines to cloud
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryanp018/Aryanp018/output/snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Aryanp018/Aryanp018/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryanp018/Aryanp018/output/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryanp018/Aryanp018/output/output/snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Aryanp018/Aryanp018/output/output/snake.svg" />
   </picture>
 </p>
 
