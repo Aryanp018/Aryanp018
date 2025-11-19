@@ -5,7 +5,7 @@
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer+%7C+MS+CS+@+CSU+Fresno;Reinforcement+Learning+%7C+RAG+Optimization;Cloud-Native+AI+%7C+MLOps+%26+Model+Serving;Building+reliable%2C+scalable+ML+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer+%7C+MS+CS+@+CSU+Fresno;Reinforcement+Learning+%7C+RAG+Optimization;Cloud-Native+AI+%7C+MLOps+%26+Model+Serving;Building+Reliable%2C+Scalable+ML+Systems" />
 </p>
 
 <!-- QUICK LINKS -->
@@ -19,43 +19,59 @@
 ---
 
 ### 🧠 About
-I build **reliable, scalable AI systems**—from RL-tuned RAG pipelines to cloud-native inference. I’m currently pursuing an **M.S. in Computer Science** at CSU Fresno and shipping production-grade ML with **AWS, Docker/K8s, Triton/ONNX**, and friends. (See my portfolio for demos and write-ups.)
+I’m an **AI/ML Engineer & Researcher** passionate about building **reliable, scalable intelligence**.  
+Currently pursuing an **M.S. in Computer Science** at *California State University, Fresno*, I work on  
+Reinforcement Learning, RAG Optimization, and Cloud-Native AI systems.  
+
+I’ve built:
+- 🚀 **Probabilistic hydrological models** at *ISRO* improving rainfall prediction by 20%.  
+- 🧠 **NIH-funded BCI research pipelines** achieving 98.7% classification accuracy.  
+- ☁️ **Production-grade ML pipelines** with AWS, Docker/K8s, and Triton Inference Server.  
 
 ---
 
-### 🛠️ Tech I enjoy
+### 🛠️ Tech I Enjoy
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,pytorch,tensorflow,opengl,git,linux,aws,docker,kubernetes,terraform,postgresql,mongodb,redis,kafka,spark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,pytorch,tensorflow,git,linux,aws,docker,kubernetes,terraform,postgresql,mongodb,redis,kafka,spark&perline=9" />
 </p>
 
-**ML/AI:** PyTorch • TensorFlow • Transformers • Scikit-learn • LangChain • FAISS  
-**Serving/Perf:** Triton Inference Server • ONNX • TensorRT • CUDA • vLLM  
+<p align="center">
+  🐍 Python &nbsp; | &nbsp; ⚙️ C++ &nbsp; | &nbsp; ☕ Java &nbsp; | &nbsp; 🧠 PyTorch &nbsp; | &nbsp; 🔶 TensorFlow &nbsp; | &nbsp; 🐋 Docker &nbsp; | &nbsp; ☁️ AWS &nbsp; | &nbsp; 🧱 Kubernetes &nbsp; | &nbsp; 🧩 Terraform &nbsp; | &nbsp; 🗄 PostgreSQL / MongoDB &nbsp; | &nbsp; 🔄 Kafka / Spark
+</p>
+
+**ML/AI:** Transformers • Scikit-learn • LangChain • FAISS  
+**Serving/Perf:** Triton Server • ONNX • TensorRT • CUDA • vLLM  
 **MLOps:** Docker • Kubernetes • Terraform • MLflow • Ray • GitHub Actions  
-**Data:** Kafka • Spark • Hadoop • Airflow • PostgreSQL • MongoDB
+**Data:** Kafka • Spark • Hadoop • Airflow • PostgreSQL • MongoDB  
 
 ---
 
-### 📌 Featured work
-- **Optimizing RAG with RL (GRPO)** – joint optimization of retrieval + generation to improve factuality.  
-- **MarketPulse** – real-time stock analytics with LSTM/GRU and a prod data pipeline.  
-- **DocuQuery** – multimodal semantic search (LLaMA-2 + embeddings + FAISS).  
-- **TimeNet** – cross-domain RNN forecasting platform with faster training/ETL.
+### 📌 Featured Work
 
-> Tip: link each bullet to its repo once public.
+- **Optimizing RAG with RL (GRPO)** – Reinforcement-based tuning to improve factuality and reduce hallucinations.  
+- **MarketPulse** – Real-time stock analytics with LSTM/GRU and a production-ready AWS backend.  
+- **DocuQuery** – Multimodal semantic search using LLaMA-2, FAISS, and OpenAI embeddings.  
+- **TimeNet** – Sequence forecasting platform outperforming ARIMA by 20%.  
+
+> *(Repos coming soon — follow for updates!)*
 
 ---
 
 ### 📈 Stats & Trophies
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryanp018&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanp018&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryanp018&theme=tokyonight&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryanp018&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Profile Trophy" />
 </p>
 
 ---
+
+### 🐍 Contribution Animation
 
 <p align="center">
   <picture>
@@ -67,7 +83,8 @@ I build **reliable, scalable AI systems**—from RL-tuned RAG pipelines to cloud
 
 ---
 
-### 🤝 Connect
+### 🤝 Connect With Me
+
 <p align="center">
   <a href="https://aryanp-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Open-00bfff?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
   <a href="mailto:aryanpatodiya018@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff4d4f?style=for-the-badge&logo=gmail&logoColor=white"></a>
