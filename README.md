@@ -1,82 +1,77 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Aryan Patodiya</span></h1>
-
+<!-- HEADER: dynamic capsule -->
 <p align="center">
-  <a href="mailto:aryanpatodiya018@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aryanpatodiya08/"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Patodiya-blue?logo=linkedin" /></a>
-  <a href="https://aryanp-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-ff69b4?logo=firefox-browser&logoColor=white" /></a>
-  <a href="https://github.com/Aryanp018"><img src="https://img.shields.io/badge/GitHub-Aryanp018-171515?logo=github" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aryan%20Patodiya&fontAlign=50&fontAlignY=40&fontSize=60&color=gradient&desc=AI%20%7C%20ML%20%7C%20RL%20%7C%20Scalable%20Systems&descAlign=50&descAlignY=65" />
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer+%7C+MS+CS+@+CSU+Fresno;Reinforcement+Learning+%7C+RAG+Optimization;Cloud-Native+AI+%7C+MLOps+%26+Model+Serving;Building+reliable%2C+scalable+ML+systems" />
+</p>
+
+<!-- QUICK LINKS -->
+<p align="center">
+  <a href="mailto:aryanpatodiya018@gmail.com"><img src="https://img.shields.io/badge/Email-aryanpatodiya018%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aryanpatodiya08/"><img src="https://img.shields.io/badge/LinkedIn-aryanpatodiya08-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://aryanp-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?logo=firefox-browser&logoColor=white"></a>
+  <a href="https://github.com/Aryanp018"><img src="https://img.shields.io/badge/GitHub-Aryanp018-161B22?logo=github"></a>
 </p>
 
 ---
 
-### 🧠 About Me
-
-I’m a **Machine Learning Engineer & Researcher** pursuing an **M.S. in Computer Science** at *California State University, Fresno* (2024–2026).  
-I build and scale intelligent systems — from **Reinforcement Learning and LLM pipelines** to **real-time, distributed ML infrastructure**.  
-My current focus is **optimizing Retrieval-Augmented Generation (RAG)** using **Reinforcement Learning (GRPO)** to reduce hallucination rates and improve factuality.
-
-Previously, I’ve:
-- 🚀 Engineered **satellite-based rainfall prediction systems** at **ISRO**, improving accuracy by 20%.  
-- ☁️ Built **cloud-scale ML deployments** with **Raven Technolabs** using AWS, Docker, and CI/CD pipelines.  
-- 🧩 Led a **14-member data engineering team** as Co-founder at **Nanotech Technologies**, designing edge-to-cloud IoT pipelines.  
-- 🧬 Conducted **NIH-funded research** on **Brain–Computer Interfaces (BCI)** — achieving **98.7% accuracy** with temporal-spatial CNNs.
+### 🧠 About
+I build **reliable, scalable AI systems**—from RL-tuned RAG pipelines to cloud-native inference. I’m currently pursuing an **M.S. in Computer Science** at CSU Fresno and shipping production-grade ML with **AWS, Docker/K8s, Triton/ONNX**, and friends. (See my portfolio for demos and write-ups.)
 
 ---
 
-### ⚙️ Tech Stack
-
+### 🛠️ Tech I enjoy
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,pytorch,tensorflow,aws,docker,kubernetes,terraform,git,linux,mysql,postgresql,mongodb,redis&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,pytorch,tensorflow,opengl,git,linux,aws,docker,kubernetes,terraform,postgresql,mongodb,redis,kafka,spark&perline=9" />
 </p>
 
 **ML/AI:** PyTorch • TensorFlow • Transformers • Scikit-learn • LangChain • FAISS  
-**Infra:** AWS • Triton Inference Server • ONNX • CUDA • Ray • MLflow  
-**MLOps:** Docker • Kubernetes • Terraform • CI/CD (GitHub Actions, Jenkins)  
-**Data:** Kafka • Spark • Hadoop • Airflow • PostgreSQL • MongoDB  
-**Other:** REST/GraphQL APIs • OOP • Agile • Data Visualization (Matplotlib, Tableau)
+**Serving/Perf:** Triton Inference Server • ONNX • TensorRT • CUDA • vLLM  
+**MLOps:** Docker • Kubernetes • Terraform • MLflow • Ray • GitHub Actions  
+**Data:** Kafka • Spark • Hadoop • Airflow • PostgreSQL • MongoDB
 
 ---
 
-### 📚 Highlight Projects
+### 📌 Featured work
+- **Optimizing RAG with RL (GRPO)** – joint optimization of retrieval + generation to improve factuality.  
+- **MarketPulse** – real-time stock analytics with LSTM/GRU and a prod data pipeline.  
+- **DocuQuery** – multimodal semantic search (LLaMA-2 + embeddings + FAISS).  
+- **TimeNet** – cross-domain RNN forecasting platform with faster training/ETL.
 
-🧠 **[Optimizing RAG with Reinforcement Learning](#)** –  
-Developing a GRPO-based RL framework to jointly optimize retrieval and generation for factual accuracy on SQuAD and NQ.
-
-📈 **[MarketPulse](#)** –  
-Real-time stock trend predictor using LSTM/GRU with 80% directional accuracy and scalable TensorFlow Serving backend.
-
-🔍 **[DocuQuery](#)** –  
-Multimodal semantic search engine powered by LLaMA-2, LangChain, and OpenAI embeddings — improving search relevance by 30%.
-
-⏱️ **[TimeNet](#)** –  
-Cross-domain RNN forecasting platform outperforming ARIMA models by 20% and optimized for distributed inference.
+> Tip: link each bullet to its repo once public.
 
 ---
 
-### 🧩 Currently Exploring
-
-- Reinforcement Learning for Generative Optimization  
-- Efficient LLM fine-tuning (LoRA / QLoRA)  
-- Scalable Vector Databases for AI Agents  
-- Cloud-native AI infrastructure (Triton, vLLM, K8s)  
-
----
-
-### 🌐 Let’s Connect
+### 📈 Stats & Trophies
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryanp018&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanp018&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-  <a href="https://aryanp-portfolio.netlify.app"><img src="https://img.shields.io/badge/Visit%20My%20Website-00bfff?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aryanpatodiya08/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aryanpatodiya018@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryanp018&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
+### 🗺️ Activity graph (fun!)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanp018&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanp018&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/Aryanp018/Aryanp018/output/snake.svg" alt="snake animation">
 </p>
 
 ---
 
-<p align="center">✨ “Building the future where AI systems learn — not just infer.” ✨</p>
+### 🤝 Connect
+<p align="center">
+  <a href="https://aryanp-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Open-00bfff?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+  <a href="mailto:aryanpatodiya018@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff4d4f?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aryanpatodiya08/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+<!-- FOOTER: capsule line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient" />
+</p>
