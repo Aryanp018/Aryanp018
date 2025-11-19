@@ -1,0 +1,25 @@
+name: Generate snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Aryanp018
+          outputs: dist/snake.svg
+      - name: Push snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "dist/snake.svg"
+          message: "chore: update snake"
+      - name: Move to output
+        run: |
+          mkdir -p output
+          mv dist/snake.svg output/snake.svg
+          git add output/snake.svg
+          git commit -m "chore: move snake to output"
+          git push
