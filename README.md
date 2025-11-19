@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Aryan%20Patodiya&fontSize=70&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20MS%20CS%20@%20CSU%20Fresno&descSize=18&descAlignY=55&color=0:667eea,50:764ba2,100:f093fb&fontColor=fff" width="100%"/>
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+Scalable+AI+Systems+%7C+Deep+Learning+%7C+Cloud+Infrastructure;Reinforcement+Learning+%7C+RAG+Optimization+%7C+LLM+Fine-tuning;98.7%25+Accuracy+on+NIH-Funded+BCI+Research;AWS+%7C+Docker%2FK8s+%7C+MLOps+%7C+Production+ML+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&repeat=true&width=900&lines=Building+Scalable+AI+Systems;Reinforcement+Learning+%7C+RAG+Optimization;98.7%25+Accuracy+on+NIH-Funded+BCI+Research;ML+Engineer+%7C+Researcher+%7C+Cloud+Architect" alt="Typing SVG" />
 
 <!-- Social Badges with Hover Effects -->
 <p>
@@ -31,34 +31,29 @@
 
 ## 🚀 About Me
 
-```python
-class AryanPatodiya:
-    def __init__(self):
-        self.role = "AI/ML Engineer & Researcher"
-        self.education = "MS in Computer Science @ CSU Fresno"
-        self.location = "Fresno, CA"
-        self.focus_areas = [
-            "Reinforcement Learning",
-            "RAG Optimization", 
-            "Cloud-Native AI Systems",
-            "LLM Fine-tuning & Deployment"
-        ]
-        
-    def current_work(self):
-        return {
-            "research": "NIH-Funded BCI Research (98.7% accuracy)",
-            "project": "GRPO-based RAG optimization with RL",
-            "interests": ["Scalable ML Systems", "MLOps", "Distributed Computing"]
-        }
-    
-    def past_achievements(self):
-        return [
-            "🛰️ ISRO: 20% improvement in rainfall prediction",
-            "🧠 NIH BCI: 98.7% classification accuracy",
-            "☁️ Production ML pipelines with AWS/K8s/Triton",
-            "📊 Real-time analytics serving 1000+ concurrent users"
-        ]
-```
+<div align="center">
+
+**AI/ML Engineer & Researcher** passionate about building **reliable, scalable intelligence systems**
+
+🎓 **MS in Computer Science** @ CSU Fresno | 🌍 Fresno, CA
+
+Specializing in **Reinforcement Learning**, **RAG Optimization**, and **Cloud-Native AI**
+
+</div>
+
+### 💼 What I Do
+
+- 🧠 **Research:** NIH-Funded BCI systems achieving 98.7% accuracy
+- 🤖 **Current Project:** GRPO-based RAG optimization reducing LLM hallucinations by ~25%
+- ☁️ **Expertise:** Production ML pipelines with AWS, Docker/K8s, and Triton Inference Server
+- 📊 **Focus Areas:** Scalable ML systems, MLOps, Distributed Computing
+
+### 🏆 Key Achievements
+
+🛰️ **ISRO** - 20% improvement in rainfall prediction using probabilistic models  
+🧠 **NIH BCI** - 98.7% classification accuracy on brain-computer interfaces  
+☁️ **Cloud ML** - Built production pipelines serving 1000+ concurrent users  
+🚀 **Startup** - Led 14-member engineering team building edge-to-cloud systems
 
 <div align="center">
 
@@ -68,31 +63,43 @@ class AryanPatodiya:
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-**🎓 Education**
-- **MS Computer Science** - CSU Fresno (3.9 GPA)
-- **BTech Computer Engineering** - CSUT India (3.82 GPA)
+### 🎓 Education
 
-**🏢 Experience**
-- Machine Learning Research @ CSU Fresno (NIH-funded)
-- ML Intern @ ISRO (Hydrological Modeling)
-- ML Engineering Intern @ Raven Technolabs
-- Cofounder & Lead Engineer @ Nanotech Technologies
+**MS Computer Science** - CSU Fresno  
+*GPA: 3.9/4.0 | 2024-2026*
+
+**BTech Computer Engineering** - CSUT India  
+*GPA: 3.82/4.0 | 2019-2023*
+
+<br>
+
+### 🏢 Experience
+
+✅ **ML Research Assistant** - CSU Fresno (NIH-funded)  
+✅ **ML Intern** - ISRO (Hydrological Modeling)  
+✅ **ML Engineering Intern** - Raven Technolabs  
+✅ **Cofounder & Lead Engineer** - Nanotech Technologies
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-**🔬 Research Focus**
-- Reinforcement Learning for RAG Systems
-- Brain-Computer Interfaces (98.7% accuracy)
-- Probabilistic Forecasting Models
-- Distributed ML Systems
+### 🔬 Research Focus
 
-**🎯 Currently Working On**
-- GRPO-based RL for RAG optimization
-- Reducing LLM hallucinations by ~25%
-- Scalable BCI preprocessing pipelines
+🎯 Reinforcement Learning for RAG Systems  
+🧠 Brain-Computer Interfaces (98.7% accuracy)  
+📊 Probabilistic Forecasting Models  
+⚡ Distributed ML Systems
+
+<br>
+
+### 🎯 Currently Working On
+
+🤖 **GRPO-based RL for RAG optimization**  
+📉 **Reducing LLM hallucinations by ~25%**  
+🧠 **Scalable BCI preprocessing pipelines**  
+☁️ **Production ML infrastructure**
 
 </td>
 </tr>
@@ -153,98 +160,100 @@ class AryanPatodiya:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 **RAG Optimization with RL**
-**Ongoing Research**
+*Ongoing Research*
 
-- GRPO-based reinforcement learning framework
-- ~25% reduction in hallucination rates
-- Hybrid reward mechanisms for factuality
-- Evaluation on SQuAD & Natural Questions
-- BLEU, ROUGE-L, BERTScore metrics
+🔹 GRPO-based reinforcement learning framework  
+🔹 ~25% reduction in hallucination rates  
+🔹 Hybrid reward mechanisms for factuality  
+🔹 Evaluation on SQuAD & Natural Questions  
+🔹 BLEU, ROUGE-L, BERTScore metrics
 
-**Tech:** PyTorch • Transformers • FAISS • RL
+**Stack:** `PyTorch` `Transformers` `FAISS` `RL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 **Brain-Computer Interface**
-**NIH-Funded Research @ CSU Fresno**
+*NIH-Funded Research @ CSU Fresno*
 
-- 98.7% balanced accuracy (AUC: 0.9997)
-- 64k+ multi-channel EEG trials processed
-- 40% reduction in preprocessing time
-- CNN with temporal-spatial convolutions
-- 25% improvement in model robustness
+🔹 **98.7% balanced accuracy** (AUC: 0.9997)  
+🔹 64k+ multi-channel EEG trials processed  
+🔹 40% reduction in preprocessing time  
+🔹 CNN with temporal-spatial convolutions  
+🔹 25% improvement in model robustness
 
-**Tech:** Python • MATLAB • TensorFlow • CNN
+**Stack:** `Python` `MATLAB` `TensorFlow` `CNN`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📈 **MarketPulse**
-**Real-Time Stock Analytics** | [GitHub](#)
+*Real-Time Stock Analytics*
 
-- LSTM/GRU models: 80% directional accuracy
-- Vector DB + embeddings: 20% faster queries
-- Production AWS deployment
-- TensorFlow Serving for real-time inference
-- Scalable data pipeline architecture
+🔹 LSTM/GRU models: 80% directional accuracy  
+🔹 Vector DB + embeddings: 20% faster queries  
+🔹 Production AWS deployment  
+🔹 TensorFlow Serving for real-time inference  
+🔹 Scalable data pipeline architecture
 
-**Tech:** AWS • TensorFlow • LSTM • Vector DB
+**Stack:** `AWS` `TensorFlow` `LSTM` `Vector DB`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📄 **DocuQuery**
-**Multimodal Semantic Search**
+*Multimodal Semantic Search*
 
-- LLaMA-2 + FAISS retrieval system
-- 30% improvement in search relevance
-- OpenAI embeddings for multimodal data
-- Dockerized microservice deployment
-- Streamlit-based user interface
+🔹 LLaMA-2 + FAISS retrieval system  
+🔹 30% improvement in search relevance  
+🔹 OpenAI embeddings for multimodal data  
+🔹 Dockerized microservice deployment  
+🔹 Streamlit-based user interface
 
-**Tech:** LLaMA-2 • LangChain • FAISS • Docker
+**Stack:** `LLaMA-2` `LangChain` `FAISS` `Docker`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⏰ **TimeNet**
-**Sequence Forecasting Framework**
+*Sequence Forecasting Framework*
 
-- 15-20% improvement over ARIMA
-- Cross-domain time-series forecasting
-- PyTorch DataPipes optimization
-- 20% faster training pipeline
-- Rainfall & energy predictions
+🔹 15-20% improvement over ARIMA  
+🔹 Cross-domain time-series forecasting  
+🔹 PyTorch DataPipes optimization  
+🔹 20% faster training pipeline  
+🔹 Rainfall & energy predictions
 
-**Tech:** PyTorch • TensorFlow • RNN • LSTM
+**Stack:** `PyTorch` `TensorFlow` `RNN` `LSTM`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎮 **Duck Hunt 3D**
-**OpenGL Game Engine**
+*OpenGL Game Engine*
 
-- ~60 FPS with optimized rendering
-- Parallax environments & pathfinding
-- Collision detection system
-- Audio-visual subsystem integration
-- Custom physics engine
+🔹 ~60 FPS with optimized rendering  
+🔹 Parallax environments & pathfinding  
+🔹 Collision detection system  
+🔹 Audio-visual subsystem integration  
+🔹 Custom physics engine
 
-**Tech:** OpenGL • C++ • Game Physics
+**Stack:** `OpenGL` `C++` `Game Physics`
 
 </td>
 </tr>
 </table>
+
+<br>
 
 > 🚀 **More repositories coming public soon!** Follow for updates.
 
@@ -324,11 +333,11 @@ gantt
 
 <div align="center">
 
-| Publication | Venue | Status |
-|-------------|-------|--------|
-| **EEG-Based Motor Imagery Classification using Optimized CNNs** | International Conference | ✅ Accepted |
-| **GRPO-Based RAG Optimization via Reinforcement Learning** | In Progress | 🔬 Research |
-| **Probabilistic Hydrological Forecasting using HMMs** | ISRO Technical Report | 📄 Published |
+| 📄 Publication | 🏛️ Venue | 📊 Status |
+|:--------------|:---------|:----------|
+| **EEG-Based Motor Imagery Classification using Optimized CNNs** | International Conference | ✅ **Accepted** |
+| **GRPO-Based RAG Optimization via Reinforcement Learning** | In Progress | 🔬 **Research** |
+| **Probabilistic Hydrological Forecasting using HMMs** | ISRO Technical Report | 📄 **Published** |
 
 </div>
 
@@ -362,8 +371,6 @@ gantt
 </div>
 
 ---
-
-## 📫 Let's Connect!
 
 <div align="center">
 
