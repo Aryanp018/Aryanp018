@@ -64,7 +64,6 @@ I build **reliable, scalable AI systems**—from RL-tuned RAG pipelines to cloud
   </picture>
 </p>
 
-
 ---
 
 ### 🤝 Connect
