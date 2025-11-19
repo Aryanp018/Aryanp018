@@ -70,7 +70,7 @@ Specializing in **Reinforcement Learning**, **RAG Optimization**, and **Cloud-Na
 **MS Computer Science** - CSU Fresno  
 *GPA: 3.9/4.0 | 2024-2026*
 
-**BTech Computer Engineering** - CSUT India  
+**BTech Computer Engineering** - Charusat University, India  
 *GPA: 3.82/4.0 | 2019-2023*
 
 <br>
@@ -88,7 +88,7 @@ Specializing in **Reinforcement Learning**, **RAG Optimization**, and **Cloud-Na
 ### 🔬 Research Focus
 
 🎯 Reinforcement Learning for RAG Systems  
-🧠 Brain-Computer Interfaces (98.7% accuracy)  
+🧠 Brain-Computer Interfaces  
 📊 Probabilistic Forecasting Models  
 ⚡ Distributed ML Systems
 
