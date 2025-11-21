@@ -289,7 +289,7 @@ gantt
     section Research
     NIH-Funded BCI Research (CSU Fresno)     :2025-05, 2025-08
     section Teaching
-    SI Leader - Data Structures (CSU Fresno) :2024-08, 2026-01
+    SI Leader - Data Structures (CSU Fresno) :2025-08, 2026-01
     section Industry
     ISRO - ML Intern                         :2022-12, 2023-04
     Raven Technolabs - ML Engineering Intern :2022-05, 2022-07
