@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Aryan%20Patodiya&fontSize=70&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20MS%20CS%20@%20CSU%20Fresno&descSize=18&descAlignY=55&color=0:667eea,50:764ba2,100:f093fb&fontColor=fff" width="100%"/>
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&repeat=true&width=900&lines=Building+Scalable+AI+Systems;Reinforcement+Learning+%7C+RAG+Optimization;98.7%25+Accuracy+on+NIH-Funded+BCI+Research;ML+Engineer+%7C+Researcher+%7C+Cloud+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&repeat=true&width=900&lines=Building+Scalable+AI+Systems;Reinforcement+Learning+%7C+RAG+Optimization;NIH-Funded+Brain+Computer+Interface+ML+Researcher;ML+Engineer+%7C+Researcher+%7C+Cloud+Architect" alt="Typing SVG" />
 
 <!-- Social Badges with Hover Effects -->
 <p>
