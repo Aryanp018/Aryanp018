@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Aryan%20Patodiya&fontSize=70&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20MS%20CS%20@%20CSU%20Fresno&descSize=18&descAlignY=55&color=0:667eea,50:764ba2,100:f093fb&fontColor=fff" width="100%"/>
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&repeat=true&width=900&lines=Building+Scalable+AI+Systems;Reinforcement+Learning+%7C+RAG+Optimization;NIH-Funded+Brain+Computer+Interface+ML+Researcher;ML+Engineer+%7C+Researcher+%7C+Cloud+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&repeat=true&width=900&lines=Building+Scalable+AI+Systems;Reinforcement+Learning+%7C+RAG+Optimization;98.7%25+Accuracy+on+NIH-Funded+BCI+Research;ML+Engineer+%7C+Researcher+%7C+Cloud+Architect" alt="Typing SVG" />
 
 <!-- Social Badges with Hover Effects -->
 <p>
@@ -44,6 +44,7 @@ Specializing in **Reinforcement Learning**, **RAG Optimization**, and **Cloud-Na
 ### 💼 What I Do
 
 - 🧠 **Research:** NIH-Funded BCI systems achieving 98.7% accuracy
+- 👨‍🏫 **Teaching:** SI Leader for Data Structures & Algorithms at Fresno State
 - 🤖 **Current Project:** GRPO-based RAG optimization reducing LLM hallucinations by ~25%
 - ☁️ **Expertise:** Production ML pipelines with AWS, Docker/K8s, and Triton Inference Server
 - 📊 **Focus Areas:** Scalable ML systems, MLOps, Distributed Computing
@@ -70,7 +71,7 @@ Specializing in **Reinforcement Learning**, **RAG Optimization**, and **Cloud-Na
 **MS Computer Science** - CSU Fresno  
 *GPA: 3.9/4.0 | 2024-2026*
 
-**BTech Computer Engineering** - Charusat University, India  
+**BTech Computer Engineering** - CSUT India  
 *GPA: 3.82/4.0 | 2019-2023*
 
 <br>
@@ -78,6 +79,7 @@ Specializing in **Reinforcement Learning**, **RAG Optimization**, and **Cloud-Na
 ### 🏢 Experience
 
 ✅ **ML Research Assistant** - CSU Fresno (NIH-funded)  
+✅ **SI Leader** - CSU Fresno (Data Structures & Algorithms)  
 ✅ **ML Intern** - ISRO (Hydrological Modeling)  
 ✅ **ML Engineering Intern** - Raven Technolabs  
 ✅ **Cofounder & Lead Engineer** - Nanotech Technologies
@@ -88,7 +90,7 @@ Specializing in **Reinforcement Learning**, **RAG Optimization**, and **Cloud-Na
 ### 🔬 Research Focus
 
 🎯 Reinforcement Learning for RAG Systems  
-🧠 Brain-Computer Interfaces  
+🧠 Brain-Computer Interfaces (98.7% accuracy)  
 📊 Probabilistic Forecasting Models  
 ⚡ Distributed ML Systems
 
@@ -286,6 +288,8 @@ gantt
     dateFormat YYYY-MM
     section Research
     NIH-Funded BCI Research (CSU Fresno)     :2025-05, 2025-08
+    section Teaching
+    SI Leader - Data Structures (CSU Fresno) :2024-08, 2026-01
     section Industry
     ISRO - ML Intern                         :2022-12, 2023-04
     Raven Technolabs - ML Engineering Intern :2022-05, 2022-07
@@ -303,6 +307,14 @@ gantt
 - Built CNN architectures achieving 98.7% balanced accuracy (AUC: 0.9997)
 - Implemented automated evaluation framework with 25% robustness improvement
 - Accepted at international conference for publication
+
+### 👨‍🏫 **Supplemental Instruction Leader** - CSU Fresno
+*CSCI 41: Introduction to Data Structures & Algorithms | Aug 2024 - Present*
+
+- Lead weekly peer-assisted study sessions for 30+ students
+- Develop interactive learning materials for complex DSA concepts
+- Facilitate collaborative problem-solving and exam preparation
+- Improve student comprehension and course success rates
 
 ### 🛰️ **Machine Learning Intern** - ISRO
 *Hydrological Modeling & Forecasting | Dec 2022 - Apr 2023*
